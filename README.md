@@ -2,7 +2,7 @@
 
 <h3>Participantes</h3>
 <p>Juan Lucas Archangelo</p>
-<p>Anderson</p>
-<p>Thiago</p>
+<p>Anderson Augusto Oliveira</p>
+<p>Thiago Roberto Indalécio de Oliveira</p>
 
-Maratona de programação interna da Ftec Artur de Azevedo
+Maratona de programação interna da Fatec Arthur de Azevedo
